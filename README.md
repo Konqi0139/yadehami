@@ -1,7 +1,6 @@
-<h>Hello!! <img src="https://c.tenor.com/U8LbUNULUaYAAAAd/tenor.gif" width="30px"> 🚀</h>
+<h1>Yadehami</h1>
 
-# Yadehami
-![Logo]()
+<img src="https://github.com/Konqi0139/yadehami/blob/main/yadehami.png" width="309px">
 
 live wallpaper manager for compositor based in X11
 

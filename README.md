@@ -1,1 +1,10 @@
+
 # Yadehami
+![Logo]()
+
+live wallpaper manager for compositor based in X11
+
+[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
+
+## Demo
+https://img1.liveinternet.ru/images/attach/c/2/66/828/66828602_27988077.gif

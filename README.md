@@ -8,3 +8,4 @@ live wallpaper manager for compositor based in X11
 
 ## Preview
 
+![Preview](https://github.com/Konqi0139/yadehami/blob/main/preview.png)

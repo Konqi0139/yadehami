@@ -1,10 +1,11 @@
+<div align="center">
 <h1>Yadehami</h1>
 
-<img src="https://github.com/Konqi0139/yadehami/blob/main/yadehami.png" width="309px">
+<img src="https://github.com/Konqi0139/yadehami/blob/main/yadehami.png" width="393px">
 
 live wallpaper manager for compositor based in X11
 
-[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
+</div>
 
 ## Preview
 
